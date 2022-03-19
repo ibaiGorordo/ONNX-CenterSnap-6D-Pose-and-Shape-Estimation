@@ -6,6 +6,7 @@
 # Important
  - The original model has not been officially released, therefore, there might be changes to the official model later on.
  - The examples seem to not properly work when using a camera other than the one in the original dataset. This is probably due to an implementation mistake on this repository, if you find the issue, please submit an issue or PR.
+ - The model only works with the following objects (the objects avaialble in the training dataset): bottle, bowl, camera, can, laptop, and mug.
 
 # Requirements
 
