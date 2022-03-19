@@ -82,7 +82,7 @@ https://user-images.githubusercontent.com/43162939/159125339-884517ef-7796-4abc-
    - Clone the pyKinectAzure repository inside this repository: `git clone https://github.com/ibaiGorordo/pyKinectAzure.git`
  
  ```
- kinect_draw_pose3d.py
+ python kinect_draw_pose3d.py
  ```
 
 # References
