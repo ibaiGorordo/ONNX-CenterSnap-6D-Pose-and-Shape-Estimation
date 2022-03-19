@@ -87,6 +87,7 @@ https://user-images.githubusercontent.com/43162939/159125339-884517ef-7796-4abc-
 
 # References
 - **CenterSnap**: https://github.com/zubair-irshad/CenterSnap
+- **Original paper**: https://arxiv.org/abs/2203.01929
 - **Modified CenterSnap for conversion**: https://github.com/ibaiGorordo/CenterSnap/tree/convert_onnx
 - **Depthai library**: https://github.com/luxonis/depthai-python
 - **pyKinectAzure**: https://github.com/ibaiGorordo/pyKinectAzure
