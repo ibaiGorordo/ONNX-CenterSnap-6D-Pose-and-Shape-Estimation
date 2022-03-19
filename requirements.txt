@@ -1,0 +1,7 @@
+opencv-python
+onnx
+onnxruntime
+onnxruntime-gpu
+imread-from-url
+scikit-image
+open3d
