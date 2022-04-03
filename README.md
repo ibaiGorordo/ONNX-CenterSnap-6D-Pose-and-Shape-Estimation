@@ -76,6 +76,16 @@ https://user-images.githubusercontent.com/43162939/159125339-884517ef-7796-4abc-
  ```
  python depthai_draw_pose3d.py
  ```
+ 
+  * **Realsense 3D pose**:
+
+https://user-images.githubusercontent.com/43162939/161429186-1a678e8f-f7e6-4afb-b687-4debd77496dc.mp4
+
+   First, install the pyrealsense2 library: `pip install pyrealsense2`
+ 
+ ```
+ python realsense_draw_pose3d.py
+ ```
 
  * **Azure Kinect 3D pose**:
 
@@ -91,5 +101,6 @@ https://user-images.githubusercontent.com/43162939/159125339-884517ef-7796-4abc-
 - **Original paper**: https://arxiv.org/abs/2203.01929
 - **Modified CenterSnap for conversion**: https://github.com/ibaiGorordo/CenterSnap/tree/convert_onnx
 - **Depthai library**: https://github.com/luxonis/depthai-python
+- **PyRealsense2 library**: https://github.com/IntelRealSense/librealsense
 - **pyKinectAzure**: https://github.com/ibaiGorordo/pyKinectAzure
 
