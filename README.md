@@ -67,7 +67,7 @@ Download the models from [here](https://drive.google.com/file/d/1bRIBWPWwqYg7sGg
  python image_draw_pose3d.py
  ```
 
- * **OAK-D 3D pose**:
+## **OAK-D 3D pose**:
 
 https://user-images.githubusercontent.com/43162939/159125339-884517ef-7796-4abc-8e09-e8ed1ad7b43c.mp4
 
@@ -77,7 +77,7 @@ https://user-images.githubusercontent.com/43162939/159125339-884517ef-7796-4abc-
  python depthai_draw_pose3d.py
  ```
  
-  * **Realsense 3D pose**:
+##  **Realsense 3D pose**:
 
 https://user-images.githubusercontent.com/43162939/161429186-1a678e8f-f7e6-4afb-b687-4debd77496dc.mp4
 
@@ -87,7 +87,7 @@ https://user-images.githubusercontent.com/43162939/161429186-1a678e8f-f7e6-4afb-
  python realsense_draw_pose3d.py
  ```
 
- * **Azure Kinect 3D pose**:
+## **Azure Kinect 3D pose**:
 
    - First, install the Azure Kinect SDK: https://docs.microsoft.com/en-us/azure/kinect-dk/sensor-sdk-download
    - Clone the pyKinectAzure repository inside this repository: `git clone https://github.com/ibaiGorordo/pyKinectAzure.git`
